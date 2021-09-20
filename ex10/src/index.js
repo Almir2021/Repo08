@@ -6,8 +6,7 @@
             return undefined;
         } // Only change code above this line
 
-        else if (x = 0) 
-        return 0;
+       
 
         
             
@@ -16,7 +15,7 @@
       
      
      //Only change code below this line
-     console.log( mathTest (0,0));
+     console.log( mathTest (3,3));
  // Only change code above this line
 
  module.exports = mathTest;
