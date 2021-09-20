@@ -16,4 +16,7 @@ function addFive() {
  }
  console.log(addFive());
  // Only change code above this line
-    
+    module.exports = {
+        addThree,
+        addFive
+    };
